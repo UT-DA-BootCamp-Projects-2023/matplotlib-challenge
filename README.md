@@ -3,7 +3,7 @@
 * pymaceuticals_analysis.ipynb (Jupyter Source File) - completed/Solved assignment source file
 * data folder - contains two data file Mouse_metadata.csv and Study_results.csv used for this assignment
 
-***----------Content under matplotlib-challenge ----------***
+***----------To Execute the Jupyter source file ----------***
 * Open the pymaceuticals_analysis.ipynb (Jupyter Source File) using Visual studio code
 * Ensure correct Kernell is selected. Please use Checklist.pdf for reference
 * Ensure required dataset is under data folder and the data folder is placed in the same level as the Jupyter source file is placed to avoid error. Refer Checklist pdf for reference.
